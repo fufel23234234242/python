@@ -1,0 +1,8 @@
+#ex 2
+numbers = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+sublist = numbers[2]
+print(sublist)
+sublist = numbers[-1]
+print(sublist)
+sublist = numbers[4]
+print(sublist)
